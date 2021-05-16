@@ -1,5 +1,5 @@
 # Twitch_API
 
-Practice for fetching API
+Practice for imitate Twitch
 
-[my_Twitch](http://mentor-program.co/elvis1056/week4/index.html)
+[my_Twitch]
